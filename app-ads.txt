@@ -186,6 +186,15 @@ contextweb.com, 562822, RESELLER, 89ff185a4c4e857c
 sharethrough.com, R8RYvw10, DIRECT, d53b998a7bd4ecd2
 freewheel.tv, 1522514, RESELLER
 improvedigital.com, 1231, RESELLER
+
+#Titan Media
+titanmedia.works,772144,Direct
+mosher.media,313, Direct
+freewheel.tv,Freewheel,1606204,RESELLER
+freewheel.tv,Freewheel,1606306,RESELLER
+Vidoomy.com,Vidoomy, 7517993,RESELLER
+Adform.com,Adform,2742,RESELLER
+
 yahoo.com, 59875, RESELLER
 pubnative.net, 1007501, RESELLER, d641df8625486a7b
 krushmedia.com, AJxF6R44a9M6CaTvK, RESELLER
