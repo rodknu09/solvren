@@ -523,7 +523,7 @@ improvedigital.com, 2276, RESELLER
 zetaglobal.net, 749, RESELLER
 loopme.com, 11488, RESELLER, 6c8d5f95897a5a3b
 admixer.net, 7bdaf158-53db-471c-b1bb-7aa51aa21ba4, DIRECT
-lijit.com, 509254, RESELLER, fafdf38b16bf6b2bb
+lijit.com, 509254, RESELLER, fafdf38b16bf6b2b
 axiom.com, 59089, both, bc385f2b4a87b721
 rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
 streamlyn.com, bsrvptr20149, DIRECT
