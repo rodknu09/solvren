@@ -195,6 +195,22 @@ freewheel.tv,Freewheel,1606306,RESELLER
 Vidoomy.com,Vidoomy, 7517993,RESELLER
 Adform.com,Adform,2742,RESELLER
 
+titanmedia.works,772144,DIRECT
+aceex.io, 1980, DIRECT, b1cf3c874d5c6682
+snack-media.com, SNM_4199, RESELLER
+appnexus.com, 7582, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 11106, RESELLER, 0bfd66d529a55807
+triplelift.com, 7613, RESELLER, 6c33edb13117fd86
+freewheel.tv, 1608199, RESELLER
+pubmatic.com, 160628, RESELLER, 5d62403b186f2ace
+connatix.com, 1652500284288994, DIRECT, 2af98acdee0e81ed
+themediagrid.com, HIFRLS, DIRECT, 35d5010d7789b49d
+
+titanmedia.works,772144,RESELLER
+streamvisionmedia.com, 50636, DIRECT
+loopme.com, 11683, RESELLER, 6c8d5f95897a5a3b
+pubmatic.com, 163075, RESELLER, 5d62403b186f2ace
+
 yahoo.com, 59875, RESELLER
 pubnative.net, 1007501, RESELLER, d641df8625486a7b
 krushmedia.com, AJxF6R44a9M6CaTvK, RESELLER
