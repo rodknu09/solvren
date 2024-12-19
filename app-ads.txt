@@ -364,6 +364,14 @@ yeahmobi.com, 5135284, RESELLER,
 rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
 
 #Adokut
+filmzie.com, 9894113, DIRECT
+video.unrulymedia.com, 749958898, RESELLER
+sharethrough.com, rQQHK6F4, RESELLER, d53b998a7bd4ecd2 
+pubmatic.com, 160920, RESELLER, 5d62403b186f2ace
+freewheel.tv, 1205439, RESELLER
+appnexus.com, 16796, RESELLER, f5ab79cb980f11d1
+freewheel.tv, 1608050, RESELLER
+freewheel.tv, 1608057, RESELLER
 adokut.com, 126238, DIRECT, HlsfKYTZrqK9TeJL5zdp
 smartyads.com, 20043, DIRECT, fd2bde0ff2e62c5d
 loopme.com, 11426, RESELLER, 6c8d5f95897a5a3b
